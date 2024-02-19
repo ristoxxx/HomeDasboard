@@ -13,4 +13,4 @@ Weather widget comes from **https://weatherwidget.io**
 
 Third component fetches water temperature data from **https://uiras.fvh.io** or more specifically from **https://iot.fvh.fi/opendata/uiras/**
 
-![alt text](https://github.com/ristoxxx/HomeDasboard/blob/main/dashboard.jpg?raw=true)
+![alt text](dashboard.jpeg)
