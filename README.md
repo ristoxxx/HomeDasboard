@@ -12,3 +12,5 @@ project specific display can be found from **omatnaytot.hsl.fi/static?url=965bcc
 Weather widget comes from **https://weatherwidget.io**
 
 Third component fetches water temperature data from **https://uiras.fvh.io** or more specifically from **https://iot.fvh.fi/opendata/uiras/**
+
+![alt text](https://github.com/ristoxxx/HomeDashboard/blob/[branch]/dashboard.jpg?raw=true)
